@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Shader&Materail/Shader.unity
+    guid: f042512d6f29d4ca78a9dd29ed95cf7b
   m_configObjects: {}
